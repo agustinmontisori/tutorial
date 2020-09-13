@@ -22,6 +22,7 @@ public class Principal {
 			System.out.println("el impar n°: "+cant+" es: "+i);
 		}
 		
+		System.out.println();
 		System.out.println("Hello world. Git is awesome!!");
 		
 	}
