@@ -24,6 +24,8 @@ public class Principal {
 		
 		System.out.println();
 		System.out.println("Hello world. Git is awesome!!");
+		System.out.println();
+		System.out.println("Hello world. Git is awesome!!");
 		
 	}
 
