@@ -19,8 +19,10 @@ public class Principal {
 		
 		for (int i = 1; i <20; i+=2) {
 			cant = cant+1;
-			System.out.println("el impar n°: "+cant+" es: "+i);			
+			System.out.println("el impar n°: "+cant+" es: "+i);
 		}
+		
+		System.out.println("Hello world. Git is awesome!!");
 		
 	}
 
